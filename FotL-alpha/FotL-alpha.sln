@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotL-alpha.Plugins", "FotL-alpha.Plugins.csproj", "{E304DF3A-F9A6-2727-ADB6-7996119C8DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotL-alpha", "FotL-alpha.csproj", "{93FC50C8-70AB-7D4E-9F1F-4831E09FC283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotL-alpha.Editor.Plugins", "FotL-alpha.Editor.Plugins.csproj", "{6AF38A12-4FBE-4747-3BCF-9F896E9077FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E304DF3A-F9A6-2727-ADB6-7996119C8DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E304DF3A-F9A6-2727-ADB6-7996119C8DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E304DF3A-F9A6-2727-ADB6-7996119C8DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E304DF3A-F9A6-2727-ADB6-7996119C8DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FC50C8-70AB-7D4E-9F1F-4831E09FC283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FC50C8-70AB-7D4E-9F1F-4831E09FC283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FC50C8-70AB-7D4E-9F1F-4831E09FC283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FC50C8-70AB-7D4E-9F1F-4831E09FC283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF38A12-4FBE-4747-3BCF-9F896E9077FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF38A12-4FBE-4747-3BCF-9F896E9077FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF38A12-4FBE-4747-3BCF-9F896E9077FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF38A12-4FBE-4747-3BCF-9F896E9077FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

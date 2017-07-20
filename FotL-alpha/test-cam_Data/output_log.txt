@@ -1,0 +1,31 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   21.19.519.2
+Begin MonoManager ReloadAssembly
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: S:\Dev\Projects\Game\FotL-alpha\test-cam_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3840x2160 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.956035 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2c24 -> priority: 1 
+  Thread -> id: fec -> priority: 1 
+  Thread -> id: f5c -> priority: 1 
+  Thread -> id: 141c -> priority: 1 
